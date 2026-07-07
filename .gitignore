@@ -1,0 +1,20 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+
+# --- Logs y temporales ---
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
