@@ -18,3 +18,8 @@ env/
 *.bak
 *.swp
 *.swo
+
+
+# --- Data ---
+
+*.bz2
